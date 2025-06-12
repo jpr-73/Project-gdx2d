@@ -16,7 +16,7 @@ Java 11 or higher is required to run this project. An `Ant` build script is prov
  (Le fichier est comprésser car il prenait trop de place pour le README.md)
 [Stick Hero June 12 2025.mp4.zip](https://github.com/user-attachments/files/20711661/Stick.Hero.June.12.2025.mp4.zip)
 
-## Manual 
+## Manuel 
 
 Le but du jeu Stick Hero est de créer un support entre deux plateformes pour que notre Héros passe d'une plateforme à l'autre. Les plateformes sont générer à une distance aléatoire et ont une taille aléatoire, le support est créer lorsque le joueur appuye sur le bouton 'space' 
 
@@ -40,3 +40,9 @@ si la planche est trop courte la planche tombera contre la plateforme où le hé
 
 ![June 12 Screenshot from Alexandre (3)](https://github.com/user-attachments/assets/ea2fcd20-5078-4e27-bbed-e7ce14ad8d55)
 
+
+# Source
+
+Stick Hero : [Link text](https://gameforge.com/en-US/littlegames/stick-hero/)
+
+Music : 
