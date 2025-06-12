@@ -43,6 +43,6 @@ si la planche est trop courte la planche tombera contre la plateforme où le hé
 
 # Source
 
-Stick Hero : [Link text](https://gameforge.com/en-US/littlegames/stick-hero/)
+Stick Hero : [[Link text](https://gameforge.com/en-US/littlegames/stick-hero/)](https://gameforge.com/en-US/littlegames/stick-hero/)
 
 Music : 
